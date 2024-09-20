@@ -15,3 +15,13 @@ Price
 Content Rating	
 Genres </pre>	</p>
 
+<p> 
+<pre>
+Reviews dataset
+Variables	Details
+App	
+Translated 
+Sentiment	
+Sentiment_Polarity	
+Sentiment_Subjectivity
+</pre></p>
